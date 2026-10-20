@@ -5,6 +5,10 @@
 A PostgreSQL database for a music and podcast streaming service — catalogue,
 subscriptions, listening history and the reporting on top of it. The schema,
 its logic and a seed dataset come up with one command.
+## Prerequisites
+
+- Docker with Docker Compose
+- GNU Make
 
 ## Quick start
 
